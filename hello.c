@@ -6,5 +6,8 @@ Date: 01/14/2020
 
 int main(void) {
 	printf("Nathan Stephens!\n");
+	printf("Mohammed Alwahaibi");
+	printf("computer science");
+
 	return 0;
 }
